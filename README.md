@@ -1,5 +1,6 @@
 # WiDS Datathon 2023 13th Place Solution
 We are **UET 杨蓉** who achieved **13th place** in [WiDS Global](https://www.kaggle.com/competitions/widsdatathon2023) and **1st place** in [WiDS Hanoi](https://www.facebook.com/WiDSVietNam). The below write-up demonstrate our performance in the WiDS competition.
+![image](https://user-images.githubusercontent.com/69345080/224474309-4754eb99-8284-4077-81d0-d5fb867c6924.png)
 
 # Pre-processing
 - Removed all of the physical model forecast features, including word "prate", "tmp2m".
